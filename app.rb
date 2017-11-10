@@ -18,4 +18,4 @@ class App < Sinatra::Base
       resp.status = 200
     end
 
-end 
+end
