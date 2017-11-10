@@ -18,3 +18,5 @@ class App < Sinatra::Base
       "My favorite song is  #{favorite_song}"
       resp.status = 200
     end
+
+end 
